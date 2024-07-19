@@ -1,0 +1,121 @@
+{
+  "highlight": "Highlight",
+  "sponsored":"Sponsored",
+  "facilities":"Facilities",
+  "parking":"Parking",
+  "airConditioned":"Air Conditioned",
+  "wifi":"WiFi",
+  "auditorium":"Auditorium",
+  "applyfilter":"Apply filter",
+  "topSearches": "Top Searches",
+  "todayNew": "Today New",
+  "home": "Home",
+  "search": "Search",
+  "profile": "Profile",
+  "menu": "Menu",
+  "price": "Price",
+  "description": "Description",
+  "photos": "Photos",
+  "propertyDetails": "Property Details",
+  "location": "Location",
+  "contact": "Contact",
+  "searchPlaceHolder": "Search...",
+  "forRentUpper": "FOR RENT",
+  "forSaleUpper": "FOR SALE",
+  "type": "Type",
+  "categories": "Categories",
+  "bedrooms": "Bedrooms",
+  "bathrooms": "Bathrooms",
+  "kitchens": "Kitchens",
+  "parkings": "Parkings",
+  "size": "Size",
+  "cities": "Cities",
+  "filters": "Filters",
+  "favoriteProperties": "Favorite Properties",
+  "likedProperties": "Liked Properties",
+  "notifications": "Notifications",
+  "login": "Login",
+  "loginUpper": "LOGIN",
+  "register": "Register",
+  "registerUpper": "REGISTER",
+  "username": "Username",
+  "password": "Password",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "email": "Email",
+  "backToLoginUpper": "BACK TO LOGIN",
+  "showAllNotifications": "Show All Notifications",
+  "bedWithCount": "{count} Bed",
+  "@bedWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "bathWithCount": "{count} Bath",
+  "@bathWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "kitchenWithCount": "{count} Kitchen",
+  "@kitchenWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "parkingWithCount": "{count} Parking",
+  "@parkingWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "noDataErrorMessage": "No Data :(",
+  "settings": "Settings",
+  "news": "News",
+  "facebook": "Facebook",
+  "twitter": "Twitter",
+  "youtube": "Youtube",
+  "instagram": "Instagram",
+  "aboutUs": "About Us",
+  "contactUs": "Contact Us",
+  "privacyPolicy": "Privacy Policy",
+  "newsDetail": "News Detail",
+  "noData": "No Data :(",
+  "logout": "Logout",
+  "pleaseEnterText": "Please enter text",
+  "validationEmail": "Email is not valid",
+  "logoutAlertTitle": "Logout",
+  "logoutAlertDesc": "Are you sure?",
+  "yesUpper": "YES",
+  "noUpper": "NO",
+  "okUpper": "OK",
+  "system": "System",
+  "dark": "Dark",
+  "light": "Light",
+  "locale": "Locale",
+  "theme": "Theme",
+  "map": "Map",
+  "maps": "Maps",
+  "goToMap": "Go to Map",
+  "searchResultWithCount": "{count} results found",
+  "@searchResultWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  }
+}
