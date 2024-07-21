@@ -13,7 +13,8 @@ import 'package:publrealty/service/response/login_response_model.dart';
 import 'package:publrealty/service/response/search_constants_response_model.dart';
 
 class ApiService {
-  static const baseUrl = "http://publrealty.publsoft.com/"; //"http://publrealty.publsoft.com/"; "https://audito.in/";
+  static const baseUrl =
+      "https://audito.in/"; //"http://publrealty.publsoft.com/"; "https://audito.in/";
   static const apiUrl = "${baseUrl}api/v1/";
   static const imagesUrl = "${baseUrl}uploadfiles/images/";
 
